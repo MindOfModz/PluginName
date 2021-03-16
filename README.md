@@ -6,7 +6,7 @@ Learn more and download here:
 Github Disclaimer:
 Versions here may be unreleased/in development, some may be very unstable.
 
-Discord:
+### Discord:
 https://discord.gg/67Tdk7BHbC (Join for support/suggestions/discussion)
 
 
