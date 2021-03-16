@@ -3,7 +3,7 @@ PluginName is an advanced, feature-rich plugin, great for a variety of server ga
 
 Learn more and download here: 
 
-Github Disclaimer:
+### Github Disclaimer:
 Versions here may be unreleased/in development, some may be very unstable.
 
 ### Discord:
