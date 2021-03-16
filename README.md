@@ -7,7 +7,7 @@ Github Disclaimer:
 Versions here may be unreleased/in development, some may be very unstable.
 
 Discord:
- (Join for support/suggestions/discussion)
+https://discord.gg/67Tdk7BHbC (Join for support/suggestions/discussion)
 
 
 Contributing
